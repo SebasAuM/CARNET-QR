@@ -7,6 +7,9 @@ const personas = {
       nombre: "Ana Gómez",
       descripcion: "Diseñadora gráfica especializada en branding."
     },
-    // Puedes agregar más personas aquí
+    "003": {
+      nombre: "Sebastian Aurela",
+      descripcion: "Ingeniero de sistemas."
+    
   };
   
