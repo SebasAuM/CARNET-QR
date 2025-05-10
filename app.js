@@ -12,4 +12,3 @@ window.addEventListener("DOMContentLoaded", () => {
       document.getElementById("descripcion").textContent = "";
     }
   });
-  
